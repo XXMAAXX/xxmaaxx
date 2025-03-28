@@ -7,7 +7,7 @@
 
 **Contacto**:
 [<code><img height="25" alt="Linkedin" src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/v1440924046/wi1mlnkbn2jluko8pzkj.png"></code>](https://discord.gg/overx-devlopers-cyber-security-mrc-1212061445274210384)
-[<code><img height="25" alt="Telegram" src="https://seeklogo.com/images/T/telegram-new-2019-simple-logo-FAD5A4800F-seeklogo.com.png"></code>](https://t.me/+CrT_zAjvTD9lMmNk)
+[<code><img height="25" alt="Telegram" src="https://images.sftcdn.net/images/t_app-icon-m/p/dd056881-d039-479e-86c9-f30aebb46c55/548977996/telegram-Download-Telegram.jpg"></code>](https://t.me/+CrT_zAjvTD9lMmNk)
 [<code><img height="25" alt="X (Twitter)" src="https://img.freepik.com/vector-gratis/nuevo-diseno-icono-x-logotipo-twitter-2023_1017-45418.jpg"></code>](https://x.com/x_mmax)
 
 
