@@ -16,7 +16,7 @@
 
 | Activity | Stats |
 |----------|-------|
-|[![Discord Presence](https://media.discordapp.net/attachments/1251508844870369350/1251508845151260682/OIG1_6.jpeg?ex=666ed5f0&is=666d8470&hm=60169e90d08f4abe1276c6711a8c7d37c15b37cd2b25352b4310b508c89e318e&=&format=webp&width=676&height=676)](https://discord.gg/mNHfQYTqsc)| ![Francisco Griman's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcoagz&show_icons=true&theme=transparent) |
+|[![Discord Presence](https://camo.githubusercontent.com/47b298d6398e31a187f50fb28e306046c70004202e378d9904af8591fc0e1396/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d656e7a6f32393931266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d616c676f6c6961)](https://discord.gg/mNHfQYTqsc)| ![Francisco Griman's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcoagz&show_icons=true&theme=transparent) |
 
 [![OVERX](https://media.discordapp.net/attachments/1251186422954590330/1251186423135080498/x_max.png?ex=666e5269&is=666d00e9&hm=e24a9873d169e11751f322ad0f05c2721f3b09f39c5807f0e1cf378bc567619b&=&format=webp&quality=lossless)](https://discord.gg/mNHfQYTqsc)
 [![Support me on Patreon](https://cdn.discordapp.com/attachments/1251177177685426310/1251177177958060153/we.png?ex=666e49cc&is=666cf84c&hm=9024fe40e28f80c9f5c6a0adca00187ea4ea789e7bb69b214b098150d7bb7231&)](https://discord.gg/mNHfQYTqsc)
