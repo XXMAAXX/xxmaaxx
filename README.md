@@ -1,4 +1,4 @@
-## hello, i'm XMAX 👋
+## hello, i'm XMAX Dev 👋👹
 
 - Estudiante de informática en la UPT de Aragua.
 - Actualmente, estoy aprendiendo [Python](https://en.wikipedia.org/wiki/Python_(programming_language))
