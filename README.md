@@ -20,3 +20,10 @@
 
 [![OVERX](https://media.discordapp.net/attachments/1251177177685426310/1251177177958060153/we.png?ex=68084c4c&is=6806facc&hm=cee0d15253f1f359a5de9406d1a4863192b69229975684e123a515e74d850fe4&=&format=webp&quality=lossless)](https://discord.gg/mNHfQYTqsc)
 [![Support me on Patreon](https://cdn.discordapp.com/attachments/1251186422954590330/1251186423135080498/x_max.png?ex=680854e9&is=68070369&hm=663a15398daf1d0961f39df39ec8316ab91dd6402aaee7793561e826b64b9ee8&)
+
+- 🏆 Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=y0nyy&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
