@@ -19,7 +19,7 @@
 |[![Discord Presence](https://camo.githubusercontent.com/47b298d6398e31a187f50fb28e306046c70004202e378d9904af8591fc0e1396/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d656e7a6f32393931266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d616c676f6c6961)](https://discord.gg/mNHfQYTqsc)| ![Francisco Griman's GitHub stats](https://github-readme-stats.vercel.app/api?username=fcoagz&show_icons=true&theme=transparent) |
 
 [![OVERX](x_maCCx.png)](https://discord.gg/mNHfQYTqsc)
-[![Support me on Patreon](https://cdn.discordapp.com/attachments/1251186422954590330/1251186423135080498/x_max.png?ex=680854e9&is=68070369&hm=663a15398daf1d0961f39df39ec8316ab91dd6402aaee7793561e826b64b9ee8&)
+[![Support me on Patreon](we.png)
 
 
 
